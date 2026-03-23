@@ -64,6 +64,9 @@ A custom mount for the IR sensor array was designed in CAD to ensure proper alig
 ## Functional Block Diagram of System
 <img src="media/PD_LFR_FBD.png" width="500"/>
 
+## Demo Video
+https://youtu.be/5HAEdm1L99w
+
 ## What I Learned
 - Practical implementation of feedback control systems
 - PD controller tuning and real-world performance tradeoffs
