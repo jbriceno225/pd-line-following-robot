@@ -54,7 +54,7 @@ A custom mount for the IR sensor array was designed in CAD to ensure proper alig
 ## Project Structure
 - /code        -> Arduino source code (.ino)
 - /docs        -> Final project report
-- /cad         -> CAD model for custon IR sensor mount
+- /cad          -> CAD model for custon IR sensor mount
 - /media       -> Images and demo videos
 
 ## Robot
