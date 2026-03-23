@@ -21,6 +21,7 @@ Ability to follow both straight and curved paths
 - Battery power supply  
 - 4WD Smart Robot Car Chassis Kit (EMOZNY) including motors, wheel encoders, and mounting platform  
 
+## Control System
 The robot calculates an error based on sensor readings, indicating whether it is centered, drifting left, or drifting right of the line.
 
 A PD controller is applied:
