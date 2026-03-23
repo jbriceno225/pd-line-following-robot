@@ -30,18 +30,17 @@ Derivative (D): Reduces overshoot by reacting to the rate of change
 
 The controller output adjusts PWM signals sent to each motor, allowing the robot to steer smoothly back toward the line.
 
-Modeling & Analysis
-
+## Modeling & Analysis
 A transfer function of the system was derived to model the robot’s dynamic response and support controller design. This allowed for more systematic tuning of the PD controller and improved understanding of system behavior compared to trial-and-error tuning alone.
 
 ## Results
-Tuned controller gains:
-Kp = 11.977
-Kd = 1.783
-Response time: approximately 120–160 ms
-Stable tracking with minimal oscillation
-Successfully followed both straight and curved paths
-CAD & Mechanical Design
+- Tuned controller gains:
+    Kp = 11.977
+    Kd = 1.783
+- Response time: approximately 120–160 ms
+- Stable tracking with minimal oscillation
+- Successfully followed both straight and curved paths
+- CAD & Mechanical Design
 
 A custom mount for the IR sensor array was designed in CAD to ensure proper alignment, spacing, and consistent distance from the ground surface. This improved sensor reliability and overall tracking performance.
 
@@ -55,8 +54,8 @@ A custom mount for the IR sensor array was designed in CAD to ensure proper alig
 ## Project Structure
 /code        -> Arduino source code (.ino)
 /docs        -> Final project report
+/cad         -> CAD model for custon IR sensor mount
 /media       -> Images and demo videos
-Demo
 
 ## Robot
 <img src="media/PD_LFR.png" width="500"/>
