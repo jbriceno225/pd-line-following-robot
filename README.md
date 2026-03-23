@@ -1,7 +1,6 @@
-PD Line Following Robot
+# PD Line Following Robot
 
-## Overview ##
-
+## Overview
 This project is a differential-drive line following robot built using an Arduino Uno, a three-sensor infrared (IR) array, and a motor driver. The robot detects its position relative to a line and uses a proportional-derivative (PD) controller to adjust motor speeds in real time, resulting in smooth and stable path tracking.
 
 Unlike basic on/off line-following logic, this system continuously corrects its position using feedback control, improving response time and reducing oscillations.
