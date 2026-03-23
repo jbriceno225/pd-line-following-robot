@@ -61,7 +61,7 @@ A custom mount for the IR sensor array was designed in CAD to ensure proper alig
 <img src="media/PD_LFR.png" width="500"/>
 
 ## Functional Block Diagram of System
-<img src="media/PD_LFR_FBD" width="500"/>
+<img src="media/PD_LFR_FBD.png" width="500"/>
 
 ## What I Learned
 - Practical implementation of feedback control systems
