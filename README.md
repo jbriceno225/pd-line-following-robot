@@ -69,7 +69,7 @@ Control system showing sensor input, PD controller, and motor output.
 
 ## Documentation
 [View Project Report](docs/pd-line-following-report.pdf)  
-[View Presentation](docs/presentation.pdf)
+[View Presentation](docs/final-presentation.pdf)
 
 Includes system modeling, transfer function derivation, PD controller design, and experimental results.
 
