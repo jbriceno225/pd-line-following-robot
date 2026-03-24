@@ -67,6 +67,12 @@ Final assembled robot used for testing and validation.
 
 Control system showing sensor input, PD controller, and motor output.
 
+## Documentation
+[View Project Report](docs/pd-line-following-report.pdf)  
+[View Presentation](docs/presentation.pdf)
+
+Includes system modeling, transfer function derivation, PD controller design, and experimental results.
+
 ## Demo Video
 [Watch Demo](https://youtu.be/5HAEdm1L99w)
 
